@@ -11,7 +11,7 @@ public class DataType {
 
 		Scanner s = new Scanner(System.in);
 gti
-		System.out.println("Enter Number 1 = hi ");
+		System.out.println("Enter Number 1 = hi prashant ");
 		int n1 = s.nextInt();
 
 		System.out.println("Enter Number 2 = ");
