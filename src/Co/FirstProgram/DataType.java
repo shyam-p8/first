@@ -31,7 +31,7 @@ gti
 		} else if (c == 3) {
 			mo.substract();
 		} else {
-			System.out.println("You have entered invalid choice = ");
+			System.out.println("You have entered fghgjh lid choice = ");
 		}
 
 	}
