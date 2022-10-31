@@ -11,7 +11,7 @@ public class DataType {
 
 		Scanner s = new Scanner(System.in);
 gti
-		System.out.println("Enter Number 1 = hi prashant ");
+		System.out.println("Enter Number 1 = hi ");
 		int n1 = s.nextInt();
 
 		System.out.println("Enter Number 2 = ");
@@ -31,7 +31,7 @@ gti
 		} else if (c == 3) {
 			mo.substract();
 		} else {
-			System.out.println("You have entered fghgjh lid choice = ");
+			System.out.println("You have entered invalid choice = ");
 		}
 
 	}
